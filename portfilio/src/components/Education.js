@@ -10,6 +10,7 @@ const Education = () => {
                     <h3>Degree : Bsc</h3>
                     <p>Alagappa University</p>
                     <p>June 15, 2018 - October 20, 2021</p>
+        
                 </li>
                 <li>
                     <h3>Senior secondary school:  MPC</h3>
